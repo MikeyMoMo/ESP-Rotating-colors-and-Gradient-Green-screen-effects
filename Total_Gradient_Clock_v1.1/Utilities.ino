@@ -101,6 +101,7 @@ void UpdateDisplay()
     punchRainbowShift(spriteDate, rainbowTable, RAINBOW_SIZE, 0);
     spriteDate.pushSprite(0, DATE_LOC + spriteDateH);
 
+    HourDance(random(16));
     //    HourDance(tm->tm_hour);
     //    for (whichDance = 0; whichDance < 16; whichDance++) {
     //      doThis(2) {
