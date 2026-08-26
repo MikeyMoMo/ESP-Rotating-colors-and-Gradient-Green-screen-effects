@@ -61,4 +61,4 @@ Contributions are welcome! Feel free to fork, modify, and enhance these effects 
 
 **Built for ESP microcontroller enthusiasts and makers** 🔧✨
 
-
+<img width="4000" height="3000" alt="20260826_131042" src="https://github.com/user-attachments/assets/9f963e37-5233-4690-b377-c1d988d74458" />
