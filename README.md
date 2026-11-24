@@ -51,7 +51,7 @@ The code is designed to be flexible, allowing you to:
 
 ## 📝 License
 
-This project is open source and available for educational and commercial use.
+This project is open source and available for educational and commercial use.  Please leave any attribution and the GitHub link to this project in any distribution.
 
 ## 🤝 Contributing
 
@@ -61,4 +61,6 @@ Contributions are welcome! Feel free to fork, modify, and enhance these effects 
 
 **Built for ESP microcontroller enthusiasts and makers** 🔧✨
 
-<img width="4000" height="3000" alt="20260826_131042" src="https://github.com/user-attachments/assets/9f963e37-5233-4690-b377-c1d988d74458" />
+<img width="594" height="421" alt="20261124_133250" src="https://github.com/user-attachments/assets/0f118b70-c0f9-4ee7-ac9a-6c5a12ee2869" />
+
+Note: The camera did not really capture the look of the green screen punchthrough on the day of the week.  You can put anything you want for the characters fill picture.  It can be stationary or move up and down, left and right.
